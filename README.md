@@ -23,5 +23,5 @@
 </h1>
 
 <h1 align="center">
-    <img alt="Launchbase" src="https://i.imgur.com/6deTTQp.png" />
+    <img alt="Launchbase" src="https://i.imgur.com/E4GANLQ.png" />
 </h1>
