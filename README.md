@@ -1,3 +1,6 @@
+<h1 align="center">
+    <img alt="Launchbase" src="https://i.imgur.com/xLdXZS4.png" />
+</h1>
 
 
 <h2 align="center">
